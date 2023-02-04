@@ -1,0 +1,1 @@
+start /b cmd /c "C:\Program Files\Common Files\Oracle\Java\javapath\java.exe" %*
